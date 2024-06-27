@@ -1,0 +1,177 @@
+[08:02:05] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[08:02:05] [ForkJoinPool-1-worker-3/WARN]: Mod travelersbackpack uses the version fabric-1.20.1-9.1.13 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[08:02:06] [main/INFO]: Loading 69 mods:
+	- architectury 9.2.14
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- cave_dweller 1.4.0
+	- cloth-config 11.1.118
+	   \-- cloth-basic-math 0.6.1
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- geckolib 4.4.7
+	   \-- com_eliotlash_mclib_mclib 20
+	- java 21
+	- jei 15.3.0.8
+	- man 1.1.1
+	   \-- porting_lib_networking 2.1.1127+1.20
+	        |-- porting_lib_core 2.1.1127+1.20
+	        \-- porting_lib_gametest 2.1.1127+1.20
+	- midnightlurker 1.20.1-1.0.2
+	- minecraft 1.20.1
+	- travelersbackpack fabric-1.20.1-9.1.13
+	   \-- reach-entity-attributes 2.4.0
+	- vtaw_mw 1.0.2
+	- watching 1.9.2
+[08:02:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/a/minecraft_server/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[08:02:06] [main/INFO]: Compatibility level set to JAVA_16
+[08:02:06] [main/INFO]: Compatibility level set to JAVA_17
+[08:02:06] [main/WARN]: Reference map 'cave_dweller.refmap.json' for cave_dweller.mixins.json could not be read. If this is a development environment you can ignore this message
+[08:02:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[08:02:13] [main/ERROR]: No data fixer registered for cave_dweller:cave_dweller
+[08:02:14] [main/ERROR]: No data fixer registered for managgresive
+[08:02:14] [main/ERROR]: No data fixer registered for manfromthefog
+[08:02:14] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[08:02:14] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[08:02:14] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[08:02:14] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[08:02:14] [main/INFO]: [STDOUT]: Registered Mod Items for vtaw_mw
+[08:02:14] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[08:02:14] [main/WARN]: Failed to parse resource pack prompt 'require'
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.internal.Streams.parse(Streams.java:61) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_47993(class_3518.java:524) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_47994(class_3518.java:568) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2561$class_2562.method_10877(class_2561.java:401) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3806.method_43661(class_3806.java:149) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3806.method_43660(class_3806.java:181) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3806.<init>(class_3806.java:122) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3806.method_16714(class_3806.java:137) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3807.<init>(class_3807.java:12) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:115) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.1]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:602) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:47) ~[gson-2.10.jar:?]
+	... 15 more
+[08:02:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:02:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[08:02:16] [main/INFO]: Loaded 7 recipes
+[08:02:16] [main/ERROR]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: command.unknown.command at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: command.unknown.command at position 0: <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[08:02:17] [main/INFO]: Loaded 1494 advancements
+[08:02:17] [main/INFO]: Applied 1856 biome modifications to 64 of 64 new biomes in 9.168 ms
+[08:02:17] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[08:02:17] [Server thread/INFO]: Loading properties
+[08:02:17] [Server thread/INFO]: Default game type: SURVIVAL
+[08:02:17] [Server thread/INFO]: Generating keypair
+[08:02:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:02:17] [Server thread/INFO]: Using epoll channel type
+[08:02:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:02:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:02:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:02:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:02:17] [Server thread/INFO]: Preparing level "world"
+[08:02:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:02:21] [Worker-Main-3/INFO]: menu.preparingSpawn
+[08:02:21] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:21] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:22] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:22] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:22] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:23] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:24] [Worker-Main-1/INFO]: menu.preparingSpawn
+[08:02:24] [Worker-Main-3/INFO]: menu.preparingSpawn
+[08:02:24] [Worker-Main-1/INFO]: menu.preparingSpawn
+[08:02:25] [Worker-Main-1/INFO]: menu.preparingSpawn
+[08:02:25] [Worker-Main-2/INFO]: menu.preparingSpawn
+[08:02:26] [Server thread/INFO]: Time elapsed: 5811 ms
+[08:02:26] [Server thread/INFO]: Done (8.381s)! For help, type "help"
+[08:02:26] [Server thread/INFO]: Values have been reloaded
+[08:02:40] [Server thread/INFO]: namxd69[/[0:0:0:0:0:0:0:1%0]:50826] logged in with entity id 179 at (520.7345106736179, 23.0, 1373.7028411417873)
+[08:02:40] [Server thread/INFO]: Loading config from file...
+[08:02:40] [Server thread/INFO]: multiplayer.player.joined
+[08:15:05] [Server thread/INFO]: namxd69 lost connection: multiplayer.disconnect.generic
+[08:15:05] [Server thread/INFO]: multiplayer.player.left
