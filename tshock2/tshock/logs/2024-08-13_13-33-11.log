@@ -1,0 +1,42 @@
+2024-08-13 13:33:11 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-13 13:33:12 - TShock: INFO: AutoSave Enabled
+2024-08-13 13:33:12 - TShock: INFO: Backups Enabled
+2024-08-13 13:33:12 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-13 13:33:12 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-13 13:33:12 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-13 13:33:12 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-13 13:36:01 - Utils: INFO: Broadcast: Saving world...
+2024-08-13 13:36:31 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-13 13:36:31 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-13 13:36:31 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-13 13:36:50 - TShock: INFO: Goju (127.0.0.1) from 'guest' group joined. (1/8)
+2024-08-13 13:36:50 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-13 13:36:51 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-13 13:37:03 - Utils: INFO: Goju executed (args omitted): /register.
+2024-08-13 13:37:09 - Utils: INFO: Goju executed (args omitted): /register.
+2024-08-13 13:37:09 - Commands: INFO: Goju registered an account: "Goju".
+2024-08-13 13:37:17 - Utils: INFO: Goju executed (args omitted): /login.
+2024-08-13 13:37:17 - Commands: INFO: Goju authenticated successfully as user: Goju.
+2024-08-13 13:37:31 - Utils: INFO: Goju executed: /help.
+2024-08-13 13:37:59 - Utils: INFO: Broadcast: Goju has left.
+2024-08-13 13:37:59 - TShock: INFO: Goju disconnected.
+2024-08-13 13:37:59 - Utils: INFO: Broadcast: Saving world...
+2024-08-13 13:38:01 - Utils: INFO: Broadcast: World saved.
+2024-08-13 13:38:01 - SaveManager: INFO: World saved at (/home/codespace/.local/share/Terraria/Worlds/sex.wld)
+2024-08-13 13:39:16 - Utils: INFO: Server executed: /help.
+2024-08-13 13:39:20 - Utils: INFO: Server executed (args omitted): /user.
+2024-08-13 13:39:22 - Utils: INFO: Server executed (args omitted): /user.
+2024-08-13 13:39:24 - Utils: INFO: Server executed (args omitted): /user.
+2024-08-13 13:39:31 - Utils: INFO: Server executed (args omitted): /user.
+2024-08-13 13:39:41 - Utils: INFO: Server executed (args omitted): /user.
+2024-08-13 13:39:41 - Commands: INFO: Server changed account Goju to group owner.
+2024-08-13 13:39:49 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-13 13:39:50 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (1/8)
+2024-08-13 13:39:50 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-13 13:39:50 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-13 13:40:23 - Utils: INFO: Server executed: /off.
+2024-08-13 13:40:23 - Utils: INFO: Broadcast: Saving world...
+2024-08-13 13:40:24 - Utils: INFO: Broadcast: World saved.
+2024-08-13 13:40:24 - SaveManager: INFO: World saved at (/home/codespace/.local/share/Terraria/Worlds/sex.wld)
+2024-08-13 13:40:25 - Utils: INFO: Broadcast: Server shutting down!
+2024-08-13 13:40:25 - Utils: INFO: Broadcast: Saving world...
