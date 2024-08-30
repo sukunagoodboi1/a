@@ -1,0 +1,2 @@
+cd tshock2
+./TShock.Server -port 7777 -maxplayers 2 -world ./sex.wld

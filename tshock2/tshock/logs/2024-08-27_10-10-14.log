@@ -1,0 +1,67 @@
+2024-08-27 10:10:14 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-27 10:10:14 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-27 10:10:15 - TShock: INFO: AutoSave Enabled
+2024-08-27 10:10:15 - TShock: INFO: Backups Enabled
+2024-08-27 10:10:15 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-27 10:10:15 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-27 10:10:15 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-27 10:10:15 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-27 10:10:22 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-27 10:10:22 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-27 10:10:22 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-27 10:10:25 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-27 10:10:28 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/2)
+2024-08-27 10:10:28 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-27 10:10:28 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-27 10:11:09 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-27 10:11:10 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (2/2)
+2024-08-27 10:11:10 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-27 10:11:11 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-27 10:12:41 - Utils: INFO: kdeu19 summoned the Queen Slime!
+2024-08-27 10:16:28 - Utils: INFO: Goju summoned the Queen Slime!
+2024-08-27 10:20:14 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:20:16 - Utils: INFO: Broadcast: World saved.
+2024-08-27 10:20:16 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T10.20.14Z.bak)
+2024-08-27 10:20:16 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T10.20.14Z.bak).
+2024-08-27 10:20:24 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:28:35 - Utils: INFO: Broadcast: kdeu19 has left.
+2024-08-27 10:28:35 - TShock: INFO: kdeu19 disconnected.
+2024-08-27 10:30:14 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:30:16 - Utils: INFO: Broadcast: World saved.
+2024-08-27 10:30:16 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T10.30.14Z.bak)
+2024-08-27 10:30:16 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T10.30.14Z.bak).
+2024-08-27 10:30:24 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:34:39 - Utils: INFO: Goju executed: /save.
+2024-08-27 10:34:39 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:34:40 - Utils: INFO: Broadcast: World saved.
+2024-08-27 10:34:40 - SaveManager: INFO: World saved at (./sex.wld)
+2024-08-27 10:34:46 - Utils: INFO: Goju executed: /save.
+2024-08-27 10:34:46 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:34:47 - Utils: INFO: Broadcast: Goju: hi
+2024-08-27 10:34:47 - Utils: INFO: Broadcast: World saved.
+2024-08-27 10:34:47 - SaveManager: INFO: World saved at (./sex.wld)
+2024-08-27 10:34:52 - Utils: INFO: Server executed: /save.
+2024-08-27 10:34:52 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:34:54 - Utils: INFO: Broadcast: World saved.
+2024-08-27 10:34:54 - SaveManager: INFO: World saved at (./sex.wld)
+2024-08-27 10:35:21 - Utils: INFO: Broadcast: Goju has left.
+2024-08-27 10:35:21 - TShock: INFO: Goju disconnected.
+2024-08-27 10:35:21 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:35:22 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 10:35:22 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 10:35:24 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-27 10:35:34 - HandlerCollection`1: INFO: Goju (127.0.0.1) from 'owner' group joined. (1/2)
+2024-08-27 10:35:34 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-27 10:35:34 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-27 10:35:46 - TShock: INFO: Broadcast: Goju: do you like my sword sword
+2024-08-27 10:37:21 - Commands: INFO: Goju executed: /off.
+2024-08-27 10:37:21 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:37:22 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 10:37:22 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 10:37:22 - Utils: INFO: Broadcast: Server shutting down!
+2024-08-27 10:37:22 - TShock: INFO: Broadcast: Goju has left.
+2024-08-27 10:37:22 - HandlerCollection`1: INFO: Goju disconnected.
+2024-08-27 10:37:22 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:37:22 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 10:37:24 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 10:37:24 - StartHelper: INFO: World saved at (./sex.wld)

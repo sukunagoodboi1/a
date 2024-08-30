@@ -1,0 +1,48 @@
+2024-08-17 02:38:10 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2024-08-17 02:38:10 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-17 02:38:10 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-17 02:38:10 - TShock: INFO: AutoSave Enabled
+2024-08-17 02:38:10 - TShock: INFO: Backups Enabled
+2024-08-17 02:38:10 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-17 02:38:10 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-17 02:38:10 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-17 02:38:10 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-17 02:38:21 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-17 02:38:21 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-17 02:38:21 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-17 02:38:50 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-17 02:38:53 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/3)
+2024-08-17 02:38:53 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-17 02:38:53 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-17 02:41:39 - TShock: INFO: 1/2 (127.0.0.1) from 'guest' group joined. (2/3)
+2024-08-17 02:41:39 - Utils: INFO: Broadcast: 1/2 has joined.
+2024-08-17 02:41:40 - AutoTeamPlugin: INFO: [AutoTeam] Set 1/2's team to Red.
+2024-08-17 02:41:46 - Utils: INFO: 1/2 executed (args omitted): /login.
+2024-08-17 02:41:46 - Commands: INFO: 1/2 authenticated successfully as user: Goju.
+2024-08-17 02:48:10 - Utils: INFO: Broadcast: Saving world...
+2024-08-17 02:48:12 - Utils: INFO: Broadcast: World saved.
+2024-08-17 02:48:12 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-17T02.48.10Z.bak)
+2024-08-17 02:48:12 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-17T02.48.10Z.bak).
+2024-08-17 02:48:50 - Utils: INFO: Broadcast: Saving world...
+2024-08-17 02:49:49 - Utils: INFO: 1/2 executed: /spawn.
+2024-08-17 02:49:54 - Utils: INFO: 1/2 executed: /help 3.
+2024-08-17 02:50:00 - Utils: INFO: 1/2 executed: /help 4.
+2024-08-17 02:50:02 - Utils: INFO: 1/2 executed: /help 2.
+2024-08-17 02:50:10 - Utils: INFO: 1/2 executed: /spawnboss.
+2024-08-17 02:50:29 - Utils: INFO: 1/2 executed: /spawnboss eye of cthulhu 1.
+2024-08-17 02:50:45 - Utils: INFO: 1/2 executed: /spawnboss eye_of_cthulhu 1.
+2024-08-17 02:51:48 - Utils: INFO: 1/2 executed: /spawnboss 4 1.
+2024-08-17 02:52:22 - Utils: INFO: 1/2 executed: /spawnmob "Eye of Cthulhu".
+2024-08-17 02:58:10 - Utils: INFO: Broadcast: Saving world...
+2024-08-17 02:58:12 - Utils: INFO: Broadcast: World saved.
+2024-08-17 02:58:12 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-17T02.58.10Z.bak)
+2024-08-17 02:58:12 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-17T02.58.10Z.bak).
+2024-08-17 02:58:32 - Utils: INFO: 1/2 executed: /wind 10.
+2024-08-17 02:58:43 - Utils: INFO: 1/2 executed: /wind 5.
+2024-08-17 02:58:50 - Utils: INFO: Broadcast: Saving world...
+2024-08-17 03:02:59 - TSPlayer: INFO: Player kdeu19 has been disabled for Reached TileKill threshold..
+2024-08-17 03:08:10 - Utils: INFO: Broadcast: Saving world...
+2024-08-17 03:08:12 - Utils: INFO: Broadcast: World saved.
+2024-08-17 03:08:12 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-17T03.08.10Z.bak)
+2024-08-17 03:08:12 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-17T03.08.10Z.bak).
+2024-08-17 03:08:50 - Utils: INFO: Broadcast: Saving world...

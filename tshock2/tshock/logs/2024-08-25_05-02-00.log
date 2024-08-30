@@ -1,0 +1,78 @@
+2024-08-25 05:02:00 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-25 05:02:00 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-25 05:02:00 - TShock: INFO: AutoSave Enabled
+2024-08-25 05:02:00 - TShock: INFO: Backups Enabled
+2024-08-25 05:02:00 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-25 05:02:00 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-25 05:02:00 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-25 05:02:00 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-25 05:02:10 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-25 05:02:10 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-25 05:02:10 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-25 05:02:54 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-25 05:02:57 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/3)
+2024-08-25 05:02:57 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-25 05:02:57 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-25 05:03:05 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-25 05:03:06 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (2/3)
+2024-08-25 05:03:06 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-25 05:03:06 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-25 05:09:01 - Utils: INFO: kdeu19 summoned the Queen Bee!
+2024-08-25 05:12:00 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:12:02 - Utils: INFO: Broadcast: World saved.
+2024-08-25 05:12:02 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-25T05.12.00Z.bak)
+2024-08-25 05:12:02 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-25T05.12.00Z.bak).
+2024-08-25 05:12:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:17:23 - Utils: INFO: Broadcast: kdeu19 has left.
+2024-08-25 05:17:23 - TShock: INFO: kdeu19 disconnected.
+2024-08-25 05:17:27 - Utils: INFO: Goju executed: /save.
+2024-08-25 05:17:27 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:17:29 - Utils: INFO: Broadcast: World saved.
+2024-08-25 05:17:29 - SaveManager: INFO: World saved at (./sex.wld)
+2024-08-25 05:17:31 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-25 05:17:33 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (2/3)
+2024-08-25 05:17:33 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-25 05:17:33 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-25 05:17:36 - Utils: INFO: Server executed: /firework kdeu19.
+2024-08-25 05:22:00 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:22:02 - Utils: INFO: Broadcast: World saved.
+2024-08-25 05:22:02 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-25T05.22.00Z.bak)
+2024-08-25 05:22:02 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-25T05.22.00Z.bak).
+2024-08-25 05:22:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:32:00 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:32:02 - Utils: INFO: Broadcast: World saved.
+2024-08-25 05:32:02 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-25T05.32.00Z.bak)
+2024-08-25 05:32:02 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-25T05.32.00Z.bak).
+2024-08-25 05:32:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:42:00 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:42:02 - Utils: INFO: Broadcast: World saved.
+2024-08-25 05:42:02 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-25T05.42.00Z.bak)
+2024-08-25 05:42:02 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-25T05.42.00Z.bak).
+2024-08-25 05:42:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:45:18 - Commands: INFO: Goju executed: /firework kdeu19.
+2024-08-25 05:45:26 - Commands: INFO: Goju executed: /help 3.
+2024-08-25 05:45:35 - Commands: INFO: Goju executed: /serverinfo.
+2024-08-25 05:52:00 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:52:02 - SaveManager: INFO: Broadcast: World saved.
+2024-08-25 05:52:02 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-25T05.52.00Z.bak)
+2024-08-25 05:52:02 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-25T05.52.00Z.bak).
+2024-08-25 05:52:16 - Commands: INFO: Goju executed: /give wormholde potion Goju 8.
+2024-08-25 05:52:23 - Commands: INFO: Goju executed: /give wormhole potion Goju 5.
+2024-08-25 05:52:34 - TShock: INFO: Broadcast: Goju: \/give wormhole potion Goju 5
+2024-08-25 05:52:48 - Commands: INFO: Goju executed: /give nigger.
+2024-08-25 05:52:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:53:19 - Commands: INFO: Goju executed: /give wormhole potion.
+2024-08-25 05:53:57 - Commands: INFO: Goju executed: /give wormhole Goju 5.
+2024-08-25 05:55:58 - Commands: INFO: Goju executed: /save.
+2024-08-25 05:55:58 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:56:00 - SaveManager: INFO: Broadcast: World saved.
+2024-08-25 05:56:00 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-25 05:56:18 - TShock: INFO: Broadcast: kdeu19 has left.
+2024-08-25 05:56:18 - HandlerCollection`1: INFO: kdeu19 disconnected.
+2024-08-25 05:56:21 - Commands: INFO: Goju executed: /give wormhole Goju 256.
+2024-08-25 05:56:28 - Commands: INFO: Goju executed: /off.
+2024-08-25 05:56:28 - Utils: INFO: Broadcast: Saving world...
+2024-08-25 05:56:30 - SaveManager: INFO: Broadcast: World saved.
+2024-08-25 05:56:30 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-25 05:56:30 - Utils: INFO: Broadcast: Server shutting down!
+2024-08-25 05:56:30 - Utils: INFO: Broadcast: Saving world...

@@ -1,0 +1,92 @@
+2024-08-23 10:35:45 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2024-08-23 10:35:45 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-23 10:35:46 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-23 10:35:46 - TShock: INFO: AutoSave Enabled
+2024-08-23 10:35:46 - TShock: INFO: Backups Enabled
+2024-08-23 10:35:46 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-23 10:35:46 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-23 10:35:46 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-23 10:35:46 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-23 10:35:57 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-23 10:35:57 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-23 10:35:57 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-23 10:36:08 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-23 10:36:09 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (1/3)
+2024-08-23 10:36:09 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-23 10:36:09 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-23 10:36:10 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-23 10:36:12 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (2/3)
+2024-08-23 10:36:12 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-23 10:36:12 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-23 10:43:05 - Utils: INFO: Goju executed: /save.
+2024-08-23 10:43:05 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:43:07 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:43:07 - SaveManager: INFO: World saved at (./sex.wld)
+2024-08-23 10:45:45 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:45:47 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:45:47 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T10.45.45Z.bak)
+2024-08-23 10:45:47 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T10.45.45Z.bak).
+2024-08-23 10:46:08 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:53:02 - Utils: INFO: Goju executed: /gbuff.
+2024-08-23 10:53:21 - Utils: INFO: Goju executed: /buff.
+2024-08-23 10:55:45 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:55:47 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:55:47 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T10.55.45Z.bak)
+2024-08-23 10:55:47 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T10.55.45Z.bak).
+2024-08-23 10:56:08 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 11:00:00 - Utils: INFO: Goju executed: /give kdeu19.
+2024-08-23 11:00:13 - Utils: INFO: Goju executed: /give coin kdeu19 100.
+2024-08-23 11:00:24 - Utils: INFO: Goju executed: /give gold coin kdeu19 100.
+2024-08-23 11:02:07 - Utils: INFO: Broadcast: kdeu19 has left.
+2024-08-23 11:02:07 - TShock: INFO: kdeu19 disconnected.
+2024-08-23 11:03:05 - Utils: INFO: Goju executed: /give zenith.
+2024-08-23 11:03:10 - Utils: INFO: Goju executed: /give zenith goju.
+2024-08-23 11:03:31 - Utils: INFO: Goju executed: /help.
+2024-08-23 11:03:33 - Utils: INFO: Goju executed: /help 2.
+2024-08-23 11:03:36 - Utils: INFO: Goju executed: /help 3.
+2024-08-23 11:03:41 - Utils: INFO: Goju executed: /help 4.
+2024-08-23 11:03:56 - Utils: INFO: Goju executed: /spawnmob queen bee.
+2024-08-23 11:04:25 - Commands: INFO: Goju executed: /help 3.
+2024-08-23 11:04:36 - Commands: INFO: Goju executed: /spawnmob queen bee 1.
+2024-08-23 11:04:43 - Commands: INFO: Goju executed: /spawnboss queen bee.
+2024-08-23 11:04:48 - Commands: INFO: Goju executed: /spawn boss queen bee 1.
+2024-08-23 11:04:53 - Commands: INFO: Goju executed: /spawnboss queen bee 1.
+2024-08-23 11:04:58 - Commands: INFO: Goju executed: /spawnboss queen bee 1.
+2024-08-23 11:05:04 - Commands: INFO: Goju executed: /spawnboss queen bee.
+2024-08-23 11:05:11 - Commands: INFO: Goju executed: /spawnmob queen bee 1.
+2024-08-23 11:05:45 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 11:05:47 - SaveManager: INFO: Broadcast: World saved.
+2024-08-23 11:05:47 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T11.05.45Z.bak)
+2024-08-23 11:05:47 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T11.05.45Z.bak).
+2024-08-23 11:05:53 - Commands: INFO: Goju executed: /spawnmob 222.
+2024-08-23 11:06:08 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 11:06:49 - Commands: INFO: Goju executed: /give bee gun goju.
+2024-08-23 11:07:11 - Commands: INFO: Goju executed: /give 1121 goju.
+2024-08-23 11:11:13 - Commands: INFO: Goju executed: /give gold coin.
+2024-08-23 11:11:28 - Commands: INFO: Goju executed: /give 73 goju 100.
+2024-08-23 11:12:13 - Commands: INFO: Goju executed: /give star.
+2024-08-23 11:12:18 - Commands: INFO: Goju executed: /give star goju.
+2024-08-23 11:12:27 - Commands: INFO: Goju executed: /give goju fallen star.
+2024-08-23 11:12:29 - Commands: INFO: Goju executed: /give fallen.
+2024-08-23 11:12:34 - Commands: INFO: Goju executed: /give fallen star goju.
+2024-08-23 11:12:39 - Commands: INFO: Goju executed: /give 75 goju 65.
+2024-08-23 11:12:54 - Commands: INFO: Goju executed: /give 75 goju 65.
+2024-08-23 11:12:58 - Commands: INFO: Goju executed: /time.
+2024-08-23 11:13:00 - Commands: INFO: Goju executed: /time set.
+2024-08-23 11:13:06 - Commands: INFO: Goju executed: /time set 9:00.
+2024-08-23 11:13:10 - Commands: INFO: Goju executed: /time set 09:00.
+2024-08-23 11:13:18 - Commands: INFO: Goju executed: /time set 09:01:00.
+2024-08-23 11:13:23 - Commands: INFO: Goju executed: /time 09:00.
+2024-08-23 11:13:28 - Commands: INFO: Goju executed: /time set 21:00.
+2024-08-23 11:13:30 - Commands: INFO: Goju executed: /time 21:00.
+2024-08-23 11:13:40 - Commands: INFO: Goju executed: /give 75 goju 65.
+2024-08-23 11:13:46 - Commands: INFO: Goju executed: /save.
+2024-08-23 11:13:46 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 11:13:48 - SaveManager: INFO: Broadcast: World saved.
+2024-08-23 11:13:48 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-23 11:13:49 - Commands: INFO: Goju executed: /off.
+2024-08-23 11:13:49 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 11:13:50 - SaveManager: INFO: Broadcast: World saved.
+2024-08-23 11:13:50 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-23 11:13:50 - Utils: INFO: Broadcast: Server shutting down!
+2024-08-23 11:13:50 - Utils: INFO: Broadcast: Saving world...

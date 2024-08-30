@@ -1,0 +1,49 @@
+2024-08-23 09:43:27 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-23 09:43:27 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-23 09:43:27 - TShock: INFO: AutoSave Enabled
+2024-08-23 09:43:27 - TShock: INFO: Backups Enabled
+2024-08-23 09:43:27 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-23 09:43:27 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-23 09:43:27 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-23 09:43:27 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-23 09:43:38 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-23 09:43:38 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-23 09:43:38 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-23 09:45:56 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-23 09:45:58 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/3)
+2024-08-23 09:45:58 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-23 09:45:58 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-23 09:47:06 - TShock: INFO: 1/2 (127.0.0.1) from 'guest' group joined. (2/3)
+2024-08-23 09:47:06 - Utils: INFO: Broadcast: 1/2 has joined.
+2024-08-23 09:47:06 - AutoTeamPlugin: INFO: [AutoTeam] Set 1/2's team to Red.
+2024-08-23 09:47:15 - Utils: INFO: Broadcast: 1/2 has left.
+2024-08-23 09:47:15 - TShock: INFO: 1/2 disconnected.
+2024-08-23 09:47:20 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-23 09:47:21 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (2/3)
+2024-08-23 09:47:21 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-23 09:47:21 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-23 09:53:27 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 09:53:29 - Utils: INFO: Broadcast: World saved.
+2024-08-23 09:53:29 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T09.53.27Z.bak)
+2024-08-23 09:53:29 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T09.53.27Z.bak).
+2024-08-23 09:55:55 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:03:27 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:03:29 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:03:29 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T10.03.27Z.bak)
+2024-08-23 10:03:29 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T10.03.27Z.bak).
+2024-08-23 10:05:55 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:08:46 - Utils: INFO: Goju executed: /help 3.
+2024-08-23 10:13:27 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:13:28 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:13:28 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T10.13.27Z.bak)
+2024-08-23 10:13:28 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T10.13.27Z.bak).
+2024-08-23 10:15:55 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:23:27 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:23:28 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:23:28 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T10.23.27Z.bak)
+2024-08-23 10:23:28 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T10.23.27Z.bak).
+2024-08-23 10:25:55 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:33:27 - Utils: INFO: Broadcast: Saving world...
+2024-08-23 10:33:28 - Utils: INFO: Broadcast: World saved.
+2024-08-23 10:33:28 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-23T10.33.27Z.bak)
+2024-08-23 10:33:28 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-23T10.33.27Z.bak).

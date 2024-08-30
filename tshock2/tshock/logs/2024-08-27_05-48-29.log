@@ -1,0 +1,269 @@
+2024-08-27 05:48:29 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2024-08-27 05:48:29 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-27 05:48:29 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-27 05:48:29 - TShock: INFO: AutoSave Enabled
+2024-08-27 05:48:29 - TShock: INFO: Backups Enabled
+2024-08-27 05:48:29 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-27 05:48:29 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-27 05:48:29 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-27 05:48:29 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-27 05:48:37 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-27 05:48:37 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-27 05:48:37 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-27 05:48:55 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-27 05:48:56 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (1/2)
+2024-08-27 05:48:56 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-27 05:48:56 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-27 05:49:28 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-27 05:49:30 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (2/2)
+2024-08-27 05:49:30 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-27 05:49:30 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-27 05:58:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 05:58:31 - Utils: INFO: Broadcast: World saved.
+2024-08-27 05:58:31 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T05.58.29Z.bak)
+2024-08-27 05:58:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T05.58.29Z.bak).
+2024-08-27 05:58:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:08:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:08:31 - Utils: INFO: Broadcast: World saved.
+2024-08-27 06:08:31 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T06.08.29Z.bak)
+2024-08-27 06:08:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T06.08.29Z.bak).
+2024-08-27 06:08:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:18:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:18:31 - Utils: INFO: Broadcast: World saved.
+2024-08-27 06:18:31 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T06.18.29Z.bak)
+2024-08-27 06:18:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T06.18.29Z.bak).
+2024-08-27 06:18:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:18:56 - Utils: INFO: Server executed: /firework kdeu19.
+2024-08-27 06:28:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:28:31 - Utils: INFO: Broadcast: World saved.
+2024-08-27 06:28:31 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T06.28.29Z.bak)
+2024-08-27 06:28:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T06.28.29Z.bak).
+2024-08-27 06:28:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:30:07 - Utils: INFO: Server executed: /firework kdeu19.
+2024-08-27 06:38:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:38:31 - Utils: INFO: Broadcast: World saved.
+2024-08-27 06:38:31 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T06.38.29Z.bak)
+2024-08-27 06:38:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T06.38.29Z.bak).
+2024-08-27 06:38:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:40:30 - Utils: INFO: Goju executed: /save.
+2024-08-27 06:40:30 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:40:31 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 06:40:31 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 06:40:35 - Commands: INFO: Server executed: /firework kdeu19.
+2024-08-27 06:48:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:48:31 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 06:48:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T06.48.29Z.bak)
+2024-08-27 06:48:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T06.48.29Z.bak).
+2024-08-27 06:48:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:58:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:58:31 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 06:58:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T06.58.29Z.bak)
+2024-08-27 06:58:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T06.58.29Z.bak).
+2024-08-27 06:58:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:59:29 - Commands: INFO: Server executed: /firework kdeu19.
+2024-08-27 06:59:31 - Commands: INFO: Server executed: /save.
+2024-08-27 06:59:31 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 06:59:32 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 06:59:32 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 07:08:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 07:08:31 - SaveManager: INFO: Broadcast: World saved.
+2024-08-27 07:08:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T07.08.29Z.bak)
+2024-08-27 07:08:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T07.08.29Z.bak).
+2024-08-27 07:08:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-27 07:18:29 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:18:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:18:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T07.18.29Z.bak)
+2024-08-27 07:18:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T07.18.29Z.bak).
+2024-08-27 07:18:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:19:04 - Commands: INFO: Server executed: /save.
+2024-08-27 07:19:04 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:19:05 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:19:05 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 07:20:19 - HandlerCollection`1: INFO: Broadcast: Goju: farm
+2024-08-27 07:22:17 - HandlerCollection`1: INFO: Broadcast: Goju: dm
+2024-08-27 07:24:16 - HandlerCollection`1: INFO: Broadcast: Goju: dm
+2024-08-27 07:24:22 - HandlerCollection`1: INFO: Broadcast: Goju: mimic
+2024-08-27 07:24:36 - HandlerCollection`1: INFO: Broadcast: Goju: m co soul of night k
+2024-08-27 07:24:39 - HandlerCollection`1: INFO: Broadcast: Goju: t co 13
+2024-08-27 07:25:58 - HandlerCollection`1: INFO: Broadcast: Goju: hook
+2024-08-27 07:27:33 - HandlerCollection`1: INFO: Broadcast: Goju: fairy phe
+2024-08-27 07:28:29 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:28:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:28:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T07.28.29Z.bak)
+2024-08-27 07:28:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T07.28.29Z.bak).
+2024-08-27 07:28:45 - Commands: INFO: Server executed: /firework goju.
+2024-08-27 07:28:55 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:32:35 - HandlerCollection`1: INFO: Broadcast: Goju: dua t soul
+2024-08-27 07:32:55 - HandlerCollection`1: INFO: Broadcast: Goju: soul
+2024-08-27 07:33:57 - HandlerCollection`1: INFO: Broadcast: Goju: magic
+2024-08-27 07:38:29 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:38:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:38:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T07.38.29Z.bak)
+2024-08-27 07:38:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T07.38.29Z.bak).
+2024-08-27 07:38:55 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:41:58 - HandlerCollection`1: INFO: Broadcast: Goju: 31 soul r
+2024-08-27 07:43:57 - HandlerCollection`1: INFO: Broadcast: Goju: co do xin chx
+2024-08-27 07:44:06 - HandlerCollection`1: INFO: Broadcast: kdeu19: chx
+2024-08-27 07:44:38 - HandlerCollection`1: INFO: Broadcast: Goju: wtf
+2024-08-27 07:46:01 - HandlerCollection`1: INFO: Broadcast: kdeu19: t cần cung
+2024-08-27 07:46:09 - HandlerCollection`1: INFO: Broadcast: Goju: farm tiep a
+2024-08-27 07:47:22 - HandlerCollection`1: INFO: Broadcast: Goju: khoan
+2024-08-27 07:47:26 - HandlerCollection`1: INFO: Broadcast: Goju: doi t ti
+2024-08-27 07:48:29 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:48:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:48:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T07.48.29Z.bak)
+2024-08-27 07:48:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T07.48.29Z.bak).
+2024-08-27 07:48:55 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:49:02 - Commands: INFO: Server executed: /firework goju.
+2024-08-27 07:51:46 - HandlerCollection`1: INFO: Broadcast: Goju: m co may soul of night
+2024-08-27 07:52:17 - HandlerCollection`1: INFO: Broadcast: kdeu19: 1
+2024-08-27 07:52:36 - Commands: INFO: Goju executed: /save.
+2024-08-27 07:52:36 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:52:38 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:52:38 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 07:52:47 - HandlerCollection`1: INFO: Broadcast: Goju: afk ti
+2024-08-27 07:55:28 - HandlerCollection`1: INFO: Broadcast: Goju: wtf
+2024-08-27 07:58:29 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:58:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 07:58:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T07.58.29Z.bak)
+2024-08-27 07:58:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T07.58.29Z.bak).
+2024-08-27 07:58:55 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-27 07:59:22 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 07:59:23 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 07:59:23 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 07:59:24 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:00:49 - HandlerCollection`1: INFO: Broadcast: Goju: teamer
+2024-08-27 08:02:06 - HandlerCollection`1: INFO: Broadcast: Goju: ban do
+2024-08-27 08:03:38 - HandlerCollection`1: INFO: Broadcast: kdeu19: t có súng tiền
+2024-08-27 08:03:42 - HandlerCollection`1: INFO: Broadcast: Goju: dau
+2024-08-27 08:03:51 - HandlerCollection`1: INFO: Broadcast: Goju: dm
+2024-08-27 08:03:53 - HandlerCollection`1: INFO: Broadcast: Goju: ton tien 
+2024-08-27 08:04:22 - HandlerCollection`1: INFO: Broadcast: kdeu19: cát đi
+2024-08-27 08:04:27 - HandlerCollection`1: INFO: Broadcast: Goju: ok
+2024-08-27 08:06:09 - HandlerCollection`1: INFO: Broadcast: Goju: flesh knunckles
+2024-08-27 08:07:04 - HandlerCollection`1: INFO: Broadcast: kdeu19: farm soul of light
+2024-08-27 08:07:07 - HandlerCollection`1: INFO: Broadcast: Goju: ok
+2024-08-27 08:08:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:08:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:08:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T08.08.29Z.bak)
+2024-08-27 08:08:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T08.08.29Z.bak).
+2024-08-27 08:08:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:08:57 - HandlerCollection`1: INFO: Broadcast: kdeu19: wtf
+2024-08-27 08:09:01 - HandlerCollection`1: INFO: Broadcast: Goju: j
+2024-08-27 08:09:36 - HandlerCollection`1: INFO: Broadcast: Goju: k co o day thi phai
+2024-08-27 08:10:57 - HandlerCollection`1: INFO: Broadcast: Goju: day r
+2024-08-27 08:11:02 - HandlerCollection`1: INFO: Broadcast: Goju: vung co soul light
+2024-08-27 08:13:59 - HandlerCollection`1: INFO: Broadcast: Goju: 2 soul light e
+2024-08-27 08:14:00 - HandlerCollection`1: INFO: Broadcast: Goju: r
+2024-08-27 08:17:04 - HandlerCollection`1: INFO: Broadcast: Goju: may cai r
+2024-08-27 08:17:08 - HandlerCollection`1: INFO: Broadcast: kdeu19: 0
+2024-08-27 08:17:18 - HandlerCollection`1: INFO: Broadcast: Goju: dit
+2024-08-27 08:18:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:18:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:18:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T08.18.29Z.bak)
+2024-08-27 08:18:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T08.18.29Z.bak).
+2024-08-27 08:18:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:19:03 - Commands: INFO: Server executed: /firework kdeu19.
+2024-08-27 08:22:57 - HandlerCollection`1: INFO: Broadcast: Goju: may soul r
+2024-08-27 08:24:26 - HandlerCollection`1: INFO: Broadcast: Goju: nahh
+2024-08-27 08:28:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:28:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:28:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T08.28.29Z.bak)
+2024-08-27 08:28:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T08.28.29Z.bak).
+2024-08-27 08:28:32 - HandlerCollection`1: INFO: Broadcast: Goju: noo
+2024-08-27 08:28:41 - HandlerCollection`1: INFO: Broadcast: Goju: call dc chx
+2024-08-27 08:28:50 - HandlerCollection`1: INFO: Broadcast: kdeu19: chx
+2024-08-27 08:28:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:28:59 - HandlerCollection`1: INFO: Broadcast: Goju: danh queen slime k
+2024-08-27 08:29:36 - HandlerCollection`1: INFO: Broadcast: Goju: danh queen slime k
+2024-08-27 08:29:52 - HandlerCollection`1: INFO: Broadcast: kdeu19: ko
+2024-08-27 08:29:54 - HandlerCollection`1: INFO: Broadcast: Goju: why
+2024-08-27 08:30:02 - HandlerCollection`1: INFO: Broadcast: kdeu19: ăn cút đáy
+2024-08-27 08:30:11 - HandlerCollection`1: INFO: Broadcast: Goju: ok
+2024-08-27 08:31:11 - HandlerCollection`1: INFO: Broadcast: Goju: do magic moi
+2024-08-27 08:31:57 - HandlerCollection`1: INFO: Broadcast: kdeu19: mimic
+2024-08-27 08:31:57 - HandlerCollection`1: INFO: Broadcast: Goju: ngol
+2024-08-27 08:32:04 - HandlerCollection`1: INFO: Broadcast: Goju: mimic light?
+2024-08-27 08:32:09 - HandlerCollection`1: INFO: Broadcast: kdeu19: yes
+2024-08-27 08:33:16 - HandlerCollection`1: INFO: Broadcast: kdeu19: còn ko
+2024-08-27 08:33:18 - HandlerCollection`1: INFO: Broadcast: Goju: ko
+2024-08-27 08:33:22 - HandlerCollection`1: INFO: Broadcast: Goju: het r
+2024-08-27 08:33:30 - HandlerCollection`1: INFO: Broadcast: kdeu19: farm tiếp
+2024-08-27 08:36:24 - HandlerCollection`1: INFO: Broadcast: Goju: e
+2024-08-27 08:36:25 - HandlerCollection`1: INFO: Broadcast: Goju: tele
+2024-08-27 08:36:27 - HandlerCollection`1: INFO: Broadcast: Goju: nhanh
+2024-08-27 08:36:38 - HandlerCollection`1: INFO: Broadcast: Goju: mimic
+2024-08-27 08:37:24 - HandlerCollection`1: INFO: Broadcast: Goju: ngonn
+2024-08-27 08:38:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:38:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:38:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T08.38.29Z.bak)
+2024-08-27 08:38:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T08.38.29Z.bak).
+2024-08-27 08:38:46 - Commands: INFO: Server executed: /save.
+2024-08-27 08:38:46 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:38:48 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:38:48 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 08:38:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:41:22 - HandlerCollection`1: INFO: Broadcast: Goju: 10
+2024-08-27 08:42:00 - HandlerCollection`1: INFO: Broadcast: kdeu19: t về
+2024-08-27 08:42:03 - HandlerCollection`1: INFO: Broadcast: Goju: ok
+2024-08-27 08:42:39 - HandlerCollection`1: INFO: Broadcast: Goju: dua t soul
+2024-08-27 08:43:44 - HandlerCollection`1: INFO: Broadcast: Goju: chu thuat su cap 2
+2024-08-27 08:45:19 - HandlerCollection`1: INFO: Broadcast: kdeu19: chế giáp hồng đi
+2024-08-27 08:45:30 - HandlerCollection`1: INFO: Broadcast: kdeu19: ché giáp hòng đi
+2024-08-27 08:45:36 - HandlerCollection`1: INFO: Broadcast: Goju: what
+2024-08-27 08:45:55 - HandlerCollection`1: INFO: Broadcast: Goju: lm j
+2024-08-27 08:46:04 - HandlerCollection`1: INFO: Broadcast: kdeu19: đánh qeen
+2024-08-27 08:47:04 - GetDataHandlers: INFO: kdeu19 summoned the Queen Slime!
+2024-08-27 08:48:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:48:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:48:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T08.48.29Z.bak)
+2024-08-27 08:48:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T08.48.29Z.bak).
+2024-08-27 08:48:44 - HandlerCollection`1: INFO: Broadcast: Goju: 20
+2024-08-27 08:48:49 - Commands: INFO: Server executed: /save.
+2024-08-27 08:48:49 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:48:50 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:48:50 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 08:48:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:49:30 - HandlerCollection`1: INFO: Broadcast: Goju: 30
+2024-08-27 08:50:08 - HandlerCollection`1: INFO: Broadcast: kdeu19: 20
+2024-08-27 08:51:02 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:53:05 - GetDataHandlers: INFO: kdeu19 summoned the Queen Slime!
+2024-08-27 08:56:14 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:56:15 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:56:15 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:56:16 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:56:16 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:56:16 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:56:17 - HandlerCollection`1: INFO: Broadcast: Goju: ez
+2024-08-27 08:57:54 - HandlerCollection`1: INFO: Broadcast: Goju: call dc k
+2024-08-27 08:57:59 - HandlerCollection`1: INFO: Broadcast: kdeu19: ko
+2024-08-27 08:58:07 - HandlerCollection`1: INFO: Broadcast: Goju: cai kiem tren dau m dau ra do
+2024-08-27 08:58:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:58:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 08:58:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T08.58.29Z.bak)
+2024-08-27 08:58:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T08.58.29Z.bak).
+2024-08-27 08:58:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 08:59:23 - HandlerCollection`1: INFO: Broadcast: kdeu19: lên tròi farm
+2024-08-27 09:00:19 - HandlerCollection`1: INFO: Broadcast: kdeu19: tele
+2024-08-27 09:01:06 - Commands: INFO: Server executed: /broadcast afk.
+2024-08-27 09:01:06 - Command: INFO: Broadcast: (Server Broadcast) afk
+2024-08-27 09:03:02 - HandlerCollection`1: INFO: Broadcast: Goju: m k dua nen a
+2024-08-27 09:03:07 - HandlerCollection`1: INFO: Broadcast: Goju: nen tang ti le spawn
+2024-08-27 09:03:31 - HandlerCollection`1: INFO: Broadcast: Goju: nigga
+2024-08-27 09:04:20 - HandlerCollection`1: INFO: Broadcast: Goju: slime
+2024-08-27 09:06:16 - HandlerCollection`1: INFO: Broadcast: kdeu19: ỏ duói
+2024-08-27 09:08:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 09:08:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 09:08:31 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-27T09.08.29Z.bak)
+2024-08-27 09:08:31 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-27T09.08.29Z.bak).
+2024-08-27 09:08:37 - HandlerCollection`1: INFO: Broadcast: Goju: e
+2024-08-27 09:08:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 09:09:42 - Commands: INFO: Server executed: /firework kdeu19.
+2024-08-27 09:10:09 - HandlerCollection`1: INFO: Broadcast: kdeu19 has left.
+2024-08-27 09:10:09 - HandlerCollection`1: INFO: kdeu19 disconnected.
+2024-08-27 09:13:42 - Commands: INFO: Goju executed: /off.
+2024-08-27 09:13:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2024-08-27 09:13:43 - StartHelper: INFO: Broadcast: World saved.
+2024-08-27 09:13:43 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-27 09:13:43 - Command: INFO: Broadcast: Server shutting down!
+2024-08-27 09:13:43 - HandlerCollection`1: INFO: Broadcast: Saving world...

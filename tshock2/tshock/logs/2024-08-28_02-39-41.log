@@ -1,0 +1,142 @@
+2024-08-28 02:39:41 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2024-08-28 02:39:41 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-28 02:39:41 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-28 02:39:41 - TShock: INFO: AutoSave Enabled
+2024-08-28 02:39:41 - TShock: INFO: Backups Enabled
+2024-08-28 02:39:41 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-28 02:39:41 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-28 02:39:41 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-28 02:39:41 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-28 02:39:49 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-28 02:39:49 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-28 02:39:49 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-28 02:40:55 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-28 02:41:02 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/2)
+2024-08-28 02:41:02 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-28 02:41:03 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-28 02:42:16 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-28 02:42:17 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (2/2)
+2024-08-28 02:42:17 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-28 02:42:17 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-28 02:44:21 - Utils: INFO: Goju executed: /spawnmob bunny.
+2024-08-28 02:44:29 - Utils: INFO: Goju executed: /spawnmob bunny 9.
+2024-08-28 02:44:34 - Utils: INFO: Goju executed: /spawnmob bunny 100.
+2024-08-28 02:44:59 - Utils: INFO: Goju executed: /spawnmob bunny 1000.
+2024-08-28 02:45:59 - Utils: INFO: Goju executed: /help 2.
+2024-08-28 02:46:14 - Utils: INFO: Goju executed: /renamenpc guide Hitler.
+2024-08-28 02:47:03 - Utils: INFO: Goju executed: /renamenpc painter Adolf Hitler.
+2024-08-28 02:49:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 02:49:42 - Utils: INFO: Broadcast: World saved.
+2024-08-28 02:49:42 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T02.49.41Z.bak)
+2024-08-28 02:49:42 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T02.49.41Z.bak).
+2024-08-28 02:50:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 02:52:19 - Utils: INFO: Goju executed: /spawnmob the twins.
+2024-08-28 02:52:26 - Utils: INFO: Goju executed: /spawnmob "The Twins".
+2024-08-28 02:53:14 - Utils: INFO: Goju executed: /give 544 goju 1.
+2024-08-28 02:53:17 - Utils: INFO: Goju summoned the Retinazer!
+2024-08-28 02:53:17 - Utils: INFO: Goju summoned the Spazmatism!
+2024-08-28 02:53:39 - Utils: INFO: Goju executed: /time 9:00.
+2024-08-28 02:53:51 - Utils: INFO: Goju executed: /time 19:00.
+2024-08-28 02:53:59 - Utils: INFO: Goju executed: /give 544 goju.
+2024-08-28 02:54:21 - Utils: INFO: Goju summoned the Retinazer!
+2024-08-28 02:54:21 - Utils: INFO: Goju summoned the Spazmatism!
+2024-08-28 02:58:20 - Utils: INFO: Goju executed: /heal kdeu19.
+2024-08-28 02:59:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 02:59:42 - Utils: INFO: Broadcast: World saved.
+2024-08-28 02:59:42 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T02.59.41Z.bak)
+2024-08-28 02:59:42 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T02.59.41Z.bak).
+2024-08-28 03:00:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:03:52 - TShock: INFO: Broadcast: Goju: za warado
+2024-08-28 03:04:04 - Commands: INFO: Goju executed: /firework goju.
+2024-08-28 03:04:54 - Commands: INFO: Goju executed: /help 3.
+2024-08-28 03:05:10 - Commands: INFO: Goju executed: /dream.
+2024-08-28 03:05:17 - Commands: INFO: Goju executed: /motd.
+2024-08-28 03:05:26 - Commands: INFO: Goju executed: /help 4.
+2024-08-28 03:07:03 - GetDataHandlers: INFO: kdeu19 summoned the Skeletron Prime!
+2024-08-28 03:08:36 - Commands: INFO: Goju executed: /spawnmob "Skeletron Prime".
+2024-08-28 03:09:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:09:43 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:09:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T03.09.41Z.bak)
+2024-08-28 03:09:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T03.09.41Z.bak).
+2024-08-28 03:10:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:17:47 - Commands: INFO: Goju executed: /spawnmob bunny 200.
+2024-08-28 03:19:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:19:43 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:19:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T03.19.41Z.bak)
+2024-08-28 03:19:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T03.19.41Z.bak).
+2024-08-28 03:20:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:21:18 - Commands: INFO: Goju executed: /save.
+2024-08-28 03:21:18 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:21:19 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:21:19 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-28 03:21:22 - Commands: INFO: Server executed: /save.
+2024-08-28 03:21:22 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:21:24 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:21:24 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-28 03:29:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:29:42 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:29:42 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T03.29.41Z.bak)
+2024-08-28 03:29:42 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T03.29.41Z.bak).
+2024-08-28 03:29:51 - Commands: INFO: Server executed: /save.
+2024-08-28 03:29:51 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:29:53 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:29:53 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-28 03:30:44 - Commands: INFO: Goju executed: /spawnmob mystic frog.
+2024-08-28 03:30:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:33:56 - Commands: INFO: Goju executed: /spawnmob 687.
+2024-08-28 03:34:28 - Commands: INFO: Goju executed: /spawnmob 687 1.
+2024-08-28 03:34:51 - Commands: INFO: Goju executed: /spawnmob 687 1.
+2024-08-28 03:36:24 - Commands: INFO: Goju executed: /spawnmob 687 1.
+2024-08-28 03:39:02 - Commands: INFO: Goju executed: /renamenpc Mystic_Slime Drake.
+2024-08-28 03:39:07 - Commands: INFO: Goju executed: /renamenpc Mystic Drake.
+2024-08-28 03:39:14 - Commands: INFO: Goju executed: /renamenpc 683 Drake.
+2024-08-28 03:39:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:39:43 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:39:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T03.39.41Z.bak)
+2024-08-28 03:39:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T03.39.41Z.bak).
+2024-08-28 03:40:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:41:04 - Commands: INFO: Server executed: /motd.
+2024-08-28 03:41:14 - Commands: INFO: Server executed: /annoy kdeu19 10.
+2024-08-28 03:43:47 - GetDataHandlers: INFO: kdeu19 summoned the The Destroyer!
+2024-08-28 03:44:55 - Commands: INFO: Goju executed: /heal kdeu19.
+2024-08-28 03:49:41 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:49:43 - SaveManager: INFO: Broadcast: World saved.
+2024-08-28 03:49:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T03.49.41Z.bak)
+2024-08-28 03:49:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T03.49.41Z.bak).
+2024-08-28 03:50:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-28 03:51:30 - Commands: INFO: Server executed: /save.
+2024-08-28 03:51:30 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 03:51:31 - StartHelper: INFO: Broadcast: World saved.
+2024-08-28 03:51:31 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-28 03:54:22 - Commands: INFO: Goju executed: /spawnmob guide.
+2024-08-28 03:55:06 - Commands: INFO: Goju executed: /spawnmob Mystic Slime.
+2024-08-28 03:55:15 - Commands: INFO: Goju executed: /spawnmob "Mystic Slime".
+2024-08-28 03:58:12 - Commands: INFO: Goju executed: /wind 100.
+2024-08-28 03:58:15 - Commands: INFO: Goju executed: /wind 0.
+2024-08-28 03:58:23 - Commands: INFO: Goju executed: /wind 1.
+2024-08-28 03:58:51 - Commands: INFO: Goju executed: /wind 999.
+2024-08-28 03:58:53 - Commands: INFO: Goju executed: /wind 1.
+2024-08-28 03:59:41 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 03:59:43 - StartHelper: INFO: Broadcast: World saved.
+2024-08-28 03:59:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T03.59.41Z.bak)
+2024-08-28 03:59:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T03.59.41Z.bak).
+2024-08-28 04:00:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 04:04:42 - HandlerCollection`1: INFO: Broadcast: kdeu19 has left.
+2024-08-28 04:04:42 - HandlerCollection`1: INFO: kdeu19 disconnected.
+2024-08-28 04:09:41 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 04:09:43 - StartHelper: INFO: Broadcast: World saved.
+2024-08-28 04:09:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T04.09.41Z.bak)
+2024-08-28 04:09:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T04.09.41Z.bak).
+2024-08-28 04:10:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 04:19:41 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 04:19:43 - StartHelper: INFO: Broadcast: World saved.
+2024-08-28 04:19:43 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-28T04.19.41Z.bak)
+2024-08-28 04:19:43 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-28T04.19.41Z.bak).
+2024-08-28 04:20:54 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 04:24:04 - Commands: INFO: Goju executed: /motd.
+2024-08-28 04:24:15 - Commands: INFO: Goju executed: /off.
+2024-08-28 04:24:15 - SaveManager: INFO: Broadcast: Saving world...
+2024-08-28 04:24:17 - StartHelper: INFO: Broadcast: World saved.
+2024-08-28 04:24:17 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-28 04:24:17 - Command: INFO: Broadcast: Server shutting down!
+2024-08-28 04:24:17 - SaveManager: INFO: Broadcast: Saving world...

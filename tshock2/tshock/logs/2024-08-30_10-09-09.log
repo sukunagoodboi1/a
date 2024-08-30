@@ -1,0 +1,51 @@
+2024-08-30 10:09:09 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-30 10:09:09 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-30 10:09:09 - TShock: INFO: AutoSave Enabled
+2024-08-30 10:09:09 - TShock: INFO: Backups Enabled
+2024-08-30 10:09:09 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-30 10:09:09 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-30 10:09:09 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-30 10:09:09 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-30 10:09:17 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-30 10:09:17 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-30 10:09:17 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-30 10:09:53 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-30 10:09:56 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/2)
+2024-08-30 10:09:56 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-30 10:09:56 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-30 10:14:32 - GetDataHandlers: INFO: Goju authenticated successfully as user Goju.
+2024-08-30 10:14:33 - TShock: INFO: Goju (127.0.0.1) from 'owner' group joined. (2/2)
+2024-08-30 10:14:33 - Utils: INFO: Broadcast: Goju has joined.
+2024-08-30 10:14:35 - AutoTeamPlugin: INFO: [AutoTeam] Set Goju's team to Red.
+2024-08-30 10:17:32 - Utils: INFO: kdeu19 summoned the Retinazer!
+2024-08-30 10:17:32 - Utils: INFO: kdeu19 summoned the Spazmatism!
+2024-08-30 10:19:09 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:19:11 - Utils: INFO: Broadcast: World saved.
+2024-08-30 10:19:11 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-30T10.19.09Z.bak)
+2024-08-30 10:19:11 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-30T10.19.09Z.bak).
+2024-08-30 10:19:52 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:29:09 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:29:11 - Utils: INFO: Broadcast: World saved.
+2024-08-30 10:29:11 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-30T10.29.09Z.bak)
+2024-08-30 10:29:11 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-30T10.29.09Z.bak).
+2024-08-30 10:29:52 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:31:51 - Utils: INFO: Goju executed: /give "Void Bag" goju.
+2024-08-30 10:39:09 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:39:11 - Utils: INFO: Broadcast: World saved.
+2024-08-30 10:39:11 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-30T10.39.09Z.bak)
+2024-08-30 10:39:11 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-30T10.39.09Z.bak).
+2024-08-30 10:39:52 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:46:45 - Utils: INFO: kdeu19 summoned the Eye of Cthulhu!
+2024-08-30 10:47:09 - Utils: INFO: Broadcast: kdeu19 has left.
+2024-08-30 10:47:09 - TShock: INFO: kdeu19 disconnected.
+2024-08-30 10:47:09 - Utils: INFO: Broadcast: Goju has left.
+2024-08-30 10:47:09 - TShock: INFO: Goju disconnected.
+2024-08-30 10:47:09 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:47:11 - Utils: INFO: Broadcast: World saved.
+2024-08-30 10:47:11 - SaveManager: INFO: World saved at (./sex.wld)
+2024-08-30 10:47:15 - Utils: INFO: Server executed: /off.
+2024-08-30 10:47:15 - Utils: INFO: Broadcast: Saving world...
+2024-08-30 10:47:17 - SaveManager: INFO: Broadcast: World saved.
+2024-08-30 10:47:17 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-30 10:47:17 - Utils: INFO: Broadcast: Server shutting down!
+2024-08-30 10:47:17 - Utils: INFO: Broadcast: Saving world...

@@ -1,0 +1,76 @@
+2024-08-16 08:54:49 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-16 08:54:49 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-16 08:54:49 - TShock: INFO: AutoSave Enabled
+2024-08-16 08:54:49 - TShock: INFO: Backups Enabled
+2024-08-16 08:54:49 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-16 08:54:49 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-16 08:54:49 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-16 08:54:49 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-16 08:54:59 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-16 08:54:59 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-16 08:54:59 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-16 08:55:00 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-16 08:55:01 - TShock: INFO: 1/2 (127.0.0.1) from 'guest' group joined. (1/3)
+2024-08-16 08:55:01 - Utils: INFO: Broadcast: 1/2 has joined.
+2024-08-16 08:55:02 - AutoTeamPlugin: INFO: [AutoTeam] Set 1/2's team to Red.
+2024-08-16 08:55:02 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (2/3)
+2024-08-16 08:55:02 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-16 08:55:02 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-16 08:55:03 - GetDataHandlers: INFO: niggaxxx authenticated successfully as user niggaxxx.
+2024-08-16 08:55:05 - TShock: INFO: niggaxxx (127.0.0.1) from 'default' group joined. (3/3)
+2024-08-16 08:55:05 - Utils: INFO: Broadcast: niggaxxx has joined.
+2024-08-16 08:55:05 - AutoTeamPlugin: INFO: [AutoTeam] Set niggaxxx's team to Red.
+2024-08-16 08:55:10 - Utils: INFO: 1/2 executed (args omitted): /login.
+2024-08-16 08:55:10 - Commands: INFO: 1/2 authenticated successfully as user: Goju.
+2024-08-16 08:56:11 - Utils: INFO: 1/2 executed: /firework niggaxxx.
+2024-08-16 08:56:13 - Utils: INFO: 1/2 executed: /help.
+2024-08-16 08:56:19 - Utils: INFO: 1/2 executed: /firework niggaxx.
+2024-08-16 08:56:23 - Utils: INFO: 1/2 executed: /help 2.
+2024-08-16 08:56:54 - Utils: INFO: 1/2 executed: /help 3.
+2024-08-16 08:56:58 - Utils: INFO: 1/2 executed: /wind.
+2024-08-16 08:57:01 - Utils: INFO: 1/2 executed: /wind 99.
+2024-08-16 08:57:04 - Utils: INFO: 1/2 executed: /wind 0.
+2024-08-16 08:57:12 - Utils: INFO: 1/2 executed: /love.
+2024-08-16 08:57:19 - Utils: INFO: 1/2 executed: /love kdeu19.
+2024-08-16 08:57:24 - Utils: INFO: 1/2 executed: /love niggaxxx.
+2024-08-16 08:57:38 - Utils: INFO: 1/2 executed: /love niggaxxx.
+2024-08-16 08:57:47 - Utils: INFO: 1/2 executed: /freedom.
+2024-08-16 08:57:59 - Utils: INFO: 1/2 executed: /serverinfo.
+2024-08-16 08:58:06 - Utils: INFO: 1/2 executed: /help 4.
+2024-08-16 08:58:12 - Utils: INFO: 1/2 executed: /hidden.
+2024-08-16 08:58:23 - Utils: INFO: 1/2 executed: /help 3.
+2024-08-16 08:58:28 - Utils: INFO: 1/2 executed: /slap.
+2024-08-16 08:58:34 - Utils: INFO: 1/2 executed: /slap kdeu19 3.
+2024-08-16 08:58:34 - Commands: INFO: 1/2 slapped kdeu19 for 3 damage.
+2024-08-16 08:59:11 - Utils: INFO: 1/2 executed: /slap 1/2.
+2024-08-16 08:59:11 - Commands: INFO: 1/2 slapped 1/2 for 5 damage.
+2024-08-16 08:59:24 - Utils: INFO: 1/2 executed: /slap niggaxxx 3.
+2024-08-16 08:59:24 - Commands: INFO: 1/2 slapped niggaxxx for 3 damage.
+2024-08-16 08:59:40 - Utils: INFO: 1/2 executed: /slap kdeu19 10.
+2024-08-16 08:59:40 - Command: INFO: 1/2 slapped kdeu19 for 10 damage.
+2024-08-16 08:59:48 - Commands: INFO: 1/2 executed: /motd.
+2024-08-16 08:59:53 - Commands: INFO: 1/2 executed: /rules.
+2024-08-16 09:00:01 - Commands: INFO: 1/2 executed: /help 3.
+2024-08-16 09:00:08 - Commands: INFO: 1/2 executed: /wind 5.
+2024-08-16 09:00:23 - Commands: INFO: 1/2 executed: /me.
+2024-08-16 09:00:25 - Commands: INFO: 1/2 executed: /me hi.
+2024-08-16 09:00:34 - Commands: INFO: 1/2 executed: /wallow.
+2024-08-16 09:00:47 - Commands: INFO: 1/2 executed: /wind 9999.
+2024-08-16 09:00:50 - Commands: INFO: 1/2 executed: /wind 1.
+2024-08-16 09:01:25 - Commands: INFO: 1/2 executed: /wind 0.
+2024-08-16 09:02:50 - Commands: INFO: 1/2 executed: /wind 100.
+2024-08-16 09:02:53 - Commands: INFO: 1/2 executed: /wind 0.
+2024-08-16 09:03:05 - Commands: INFO: 1/2 executed: /wind 25.
+2024-08-16 09:03:20 - Commands: INFO: 1/2 executed: /wind 0.
+2024-08-16 09:03:22 - TShock: INFO: Broadcast: kdeu19 has left.
+2024-08-16 09:03:22 - HandlerCollection`1: INFO: kdeu19 disconnected.
+2024-08-16 09:04:49 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 09:04:50 - SaveManager: INFO: Broadcast: World saved.
+2024-08-16 09:04:50 - StartHelper: INFO: World saved at (tshock/backups/sex.wld.2024-08-16T09.04.49Z.bak)
+2024-08-16 09:04:50 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-16T09.04.49Z.bak).
+2024-08-16 09:04:54 - Commands: INFO: 1/2 executed: /off.
+2024-08-16 09:04:54 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 09:04:55 - SaveManager: INFO: Broadcast: World saved.
+2024-08-16 09:04:55 - StartHelper: INFO: World saved at (./sex.wld)
+2024-08-16 09:04:55 - Utils: INFO: Broadcast: Server shutting down!
+2024-08-16 09:04:55 - Utils: INFO: Broadcast: Saving world...

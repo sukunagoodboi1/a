@@ -1,0 +1,49 @@
+2024-08-16 13:43:15 - <>c: INFO: Port overridden by startup argument. Set to 7777
+2024-08-16 13:43:15 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2024-08-16 13:43:15 - TShock: INFO: AutoSave Enabled
+2024-08-16 13:43:15 - TShock: INFO: Backups Enabled
+2024-08-16 13:43:15 - TShock: INFO: Welcome to TShock for Terraria!
+2024-08-16 13:43:15 - TShock: INFO: TShock comes with no warranty & is free software.
+2024-08-16 13:43:15 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2024-08-16 13:43:15 - AutoTeamPlugin: ERROR: [AutoTeam] Config file not present. Generated a config file at tshock/AutoTeam/AutoTeam.json
+2024-08-16 13:43:25 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2024-08-16 13:43:25 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2024-08-16 13:43:25 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2024-08-16 13:44:29 - GetDataHandlers: INFO: kdeu19 authenticated successfully as user kdeu19.
+2024-08-16 13:44:31 - TShock: INFO: kdeu19 (127.0.0.1) from 'default' group joined. (1/3)
+2024-08-16 13:44:31 - Utils: INFO: Broadcast: kdeu19 has joined.
+2024-08-16 13:44:32 - AutoTeamPlugin: INFO: [AutoTeam] Set kdeu19's team to Red.
+2024-08-16 13:44:36 - Utils: INFO: Server executed: /rocket kdeu19.
+2024-08-16 13:47:52 - Utils: INFO: Server executed: /broadcast ê.
+2024-08-16 13:47:52 - Utils: INFO: Broadcast: (Server Broadcast) ê
+2024-08-16 13:53:15 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 13:53:17 - Utils: INFO: Broadcast: World saved.
+2024-08-16 13:53:17 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-16T13.53.15Z.bak)
+2024-08-16 13:53:17 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-16T13.53.15Z.bak).
+2024-08-16 13:54:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:03:15 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:03:16 - Utils: INFO: Broadcast: World saved.
+2024-08-16 14:03:16 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-16T14.03.15Z.bak)
+2024-08-16 14:03:16 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-16T14.03.15Z.bak).
+2024-08-16 14:04:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:06:10 - Utils: INFO: Server executed: /broadcast test.
+2024-08-16 14:06:10 - Utils: INFO: Broadcast: (Server Broadcast) test
+2024-08-16 14:06:23 - Utils: INFO: Server executed: /broadcast ngon server chua tat.
+2024-08-16 14:06:23 - Utils: INFO: Broadcast: (Server Broadcast) ngon server chua tat
+2024-08-16 14:13:15 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:13:16 - Utils: INFO: Broadcast: World saved.
+2024-08-16 14:13:16 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-16T14.13.15Z.bak)
+2024-08-16 14:13:16 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-16T14.13.15Z.bak).
+2024-08-16 14:14:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:23:15 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:23:16 - Utils: INFO: Broadcast: World saved.
+2024-08-16 14:23:16 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-16T14.23.15Z.bak)
+2024-08-16 14:23:16 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-16T14.23.15Z.bak).
+2024-08-16 14:24:29 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:32:20 - TSPlayer: INFO: Player kdeu19 has been disabled for Reached TileKill threshold..
+2024-08-16 14:32:37 - TSPlayer: INFO: Player kdeu19 has been disabled for Reached TileKill threshold..
+2024-08-16 14:33:15 - Utils: INFO: Broadcast: Saving world...
+2024-08-16 14:33:17 - Utils: INFO: Broadcast: World saved.
+2024-08-16 14:33:17 - SaveManager: INFO: World saved at (tshock/backups/sex.wld.2024-08-16T14.33.15Z.bak)
+2024-08-16 14:33:17 - BackupManager: INFO: World backed up (tshock/backups/sex.wld.2024-08-16T14.33.15Z.bak).
+2024-08-16 14:34:29 - Utils: INFO: Broadcast: Saving world...
